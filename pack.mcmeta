@@ -1,0 +1,6 @@
+{
+    "pack": {
+        "pack_format": 15,
+        "description": "Adds modded swords to the minecraft:swords tag for sword blocking mechanics compatibility"
+    }
+}
